@@ -26,7 +26,7 @@ This project implements a graphical password authentication system using Node.js
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vigneshp18/GPA.git
+   https://github.com/Govishuvi/GPA.git
     ```
 
 2. Install the Dependencies
@@ -70,7 +70,7 @@ This project implements a graphical password authentication system using Node.js
 Thanks for your Contribution to this project by following students.
 
 - Vignesh P
-- Govindha Shuvilesh B
+- Govinda Shuvilesh B
 ## License
 
 None
